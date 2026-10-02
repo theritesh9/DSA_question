@@ -8,5 +8,6 @@ public class even {
     }
     else{
         System.out.println("odd");
+        System.out.println("even and odd");
     }
 }
